@@ -1,2 +1,8 @@
-﻿  Main.cpp
-  GravitumEngine.vcxproj -> C:\dev\MyGameEngine\bin\GravitumEngine\Debug\GravitumEngine.dll
+﻿  Test.cpp
+C:\dev\GravitumEngine\GravitumEngine\Source\Test.cpp(3,15): warning C4273: 'Gravitum::sum': vínculo de dll inconsistente
+C:\dev\GravitumEngine\GravitumEngine\Source\Test.h(7,18): message : consulte a definição anterior de 'sum'
+  Test.h
+  Gerando Código...
+C:\dev\GravitumEngine\bin-int\GravitumEngine\Debug\Test.obj : warning LNK4042: objeto especificado mais de uma vez; extras ignorados
+     Criando biblioteca C:\dev\GravitumEngine\bin\GravitumEngine\Debug\GravitumEngine.lib e objeto C:\dev\GravitumEngine\bin\GravitumEngine\Debug\GravitumEngine.exp
+  GravitumEngine.vcxproj -> C:\dev\GravitumEngine\bin\GravitumEngine\Debug\GravitumEngine.dll

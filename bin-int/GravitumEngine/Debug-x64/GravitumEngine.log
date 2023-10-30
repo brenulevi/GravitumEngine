@@ -1,0 +1,4 @@
+﻿  LINK : C:\dev\GravitumEngine\bin\GravitumEngine\Debug-x64\GravitumEngine.dll não encontrado ou não compilado pelo o último link incremental; executando link completo
+C:\dev\GravitumEngine\bin-int\GravitumEngine\Debug-x64\Test.obj : warning LNK4042: objeto especificado mais de uma vez; extras ignorados
+     Criando biblioteca C:\dev\GravitumEngine\bin\GravitumEngine\Debug-x64\GravitumEngine.lib e objeto C:\dev\GravitumEngine\bin\GravitumEngine\Debug-x64\GravitumEngine.exp
+  GravitumEngine.vcxproj -> C:\dev\GravitumEngine\bin\GravitumEngine\Debug-x64\GravitumEngine.dll
