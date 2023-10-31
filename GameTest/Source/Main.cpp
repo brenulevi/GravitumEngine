@@ -11,11 +11,6 @@ public:
 	{
 
 	}
-
-	~Simulation()
-	{
-
-	}
 };
 
 int main()

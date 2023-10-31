@@ -5,7 +5,7 @@
 
 namespace Gravitum
 {
-	class GravitumSimulation
+	class GRAVITUMDLL GravitumSimulation
 	{
 	private:
 		Window* window;

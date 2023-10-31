@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\dev\GravitumEngine\bin\GravitumEngine\Debug\GravitumEngine.dll</FullPath>
+      <FullPath>C:\dev\GravitumEngine\bin\GravitumEngine\Debug-x64\GravitumEngine.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\dev\GravitumEngine\x64\Debug\GameTest.exe</FullPath>
+      <FullPath>C:\dev\GravitumEngine\bin\GameTest\Debug-x64\GameTest.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

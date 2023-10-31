@@ -1,2 +1,5 @@
-﻿  GameTest.vcxproj -> C:\dev\GravitumEngine\bin\GameTest\Debug-x64\GameTest.exe
-  0 arquivo(s) copiado(s)
+﻿  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol "public: __cdecl Gravitum::GravitumSimulation::GravitumSimulation(void)" (??0GravitumSimulation@Gravitum@@QEAA@XZ) referenced in function "public: __cdecl Simulation::Simulation(void)" (??0Simulation@@QEAA@XZ)
+Main.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl Gravitum::GravitumSimulation::~GravitumSimulation(void)" (??1GravitumSimulation@Gravitum@@UEAA@XZ) referenced in function "public: virtual __cdecl Simulation::~Simulation(void)" (??1Simulation@@UEAA@XZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Gravitum::GravitumSimulation::Start(void)" (?Start@GravitumSimulation@Gravitum@@QEAAXXZ) referenced in function main
+C:\dev\GravitumEngine\bin\GameTest\Debug-x64\GameTest.exe : fatal error LNK1120: 3 unresolved externals
